@@ -21,7 +21,7 @@
         <version>3.0.0</version>
         <configuration>
           <systemPropertyVariables>
-          <city></city>
+          <city>Bangalore</city>
             <gridURL>http://localhost:4444</gridURL>
 			<appURL>http://demo.actitime.com</appURL>
           </systemPropertyVariables>

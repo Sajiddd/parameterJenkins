@@ -5,7 +5,9 @@ import org.testng.annotations.Test;
 
 public class Demo1 {
 	
-	
+	/*
+	 * Sending the parameters through Jenkins to the test method.
+	 */
 	@Parameters({"city"})
 	@Test
 	public void test(String city)
