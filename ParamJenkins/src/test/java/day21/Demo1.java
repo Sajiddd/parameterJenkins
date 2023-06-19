@@ -10,6 +10,6 @@ public class Demo1 {
 	@Test
 	public void test(String city)
 	{
-		Reporter.log("parameter received from jenkins is = "+city);
+		Reporter.log("parameter received from jenkins is = "+city,true);
 	}
 }
